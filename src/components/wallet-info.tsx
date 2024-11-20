@@ -54,7 +54,7 @@ export default function WalletInfo() {
 
 
   return (
-    <main className="flex flex-col items-center p-8 bg-green-100 rounded-lg shadow-md">
+    <main className="flex flex-col items-center p-8 bg-green-300 rounded-lg shadow-md">
       {publicKey ? (
         <div className="flex flex-col gap-4 items-center">
           <h1 className="text-black font-semibold text-2xl">Tu Wallet:</h1>
