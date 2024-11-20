@@ -1,3 +1,55 @@
+# Event Manager Interface
+
+![Event Manager Interface]([https://your-image-link-here.com](https://eventmanagerinterface-p2gt--3000--d3acb9e1.local-credentialless.webcontainer.io/)) <!-- Puedes agregar una imagen relevante al proyecto -->
+
+## Descripción
+
+Event Manager Interface es una aplicación diseñada para gestionar eventos de manera eficiente. Esta aplicación permite a los usuarios crear, editar y eliminar eventos, así como ver una lista de todos los eventos programados.
+
+## Características
+
+- Crear, editar y eliminar eventos.
+- Ver una lista de eventos programados.
+- Interfaz de usuario intuitiva y fácil de usar.
+- Utiliza tecnologías modernas para una experiencia de usuario fluida.
+
+## Instalación
+
+### Clonar el repositorio
+
+1. Clona el repositorio: [bash git clone]([https://github.com/R-Mutt22/event-manager-interface.git))
+
+### Ejecutar en StackBlitz
+
+1. Abre [StackBlitz](https://stackblitz.com/) en tu navegador.
+2. Haz clic en el botón "Importar proyecto" y selecciona "GitHub".
+3. Ingresa la URL del repositorio: `https://github.com/R-Mutt22/event-manager-interface`.
+4. StackBlitz importará y configurará automáticamente tu proyecto.
+5. Una vez importado, podrás ejecutar y ver la aplicación directamente en tu navegador.
+
+## Uso
+
+1. Abre la aplicación en tu navegador.
+2. Usa la interfaz para crear, editar y eliminar eventos.
+3. Visualiza la lista de eventos programados.
+
+## Tecnologías Utilizadas
+
+- StackBlitz
+- [Next.js, Typescript, Css, etc.]
+
+## Contribuciones
+
+¡Las contribuciones son bienvenidas! Si deseas contribuir, por favor sigue estos pasos:
+
+1. Haz un fork del proyecto.
+2. Crea una nueva rama (`git checkout -b feature/nueva-funcionalidad`).
+3. Realiza tus cambios y haz commit (`git commit -m 'Agrega nueva funcionalidad'`).
+4. Sube tus cambios (`git push origin feature/nueva-funcionalidad`).
+5. Abre un Pull Request.
+
+###  
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
